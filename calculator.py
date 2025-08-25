@@ -13,7 +13,7 @@ print("\n---Calculator---")
 print("1.Add")
 print("2.Subtract")
 print("3.Multiply")
-print("Divide")
+print("4.Divide")
 print("Exit")
 choice=input("Enter your choice:")
 if choice == '5':
@@ -34,5 +34,6 @@ elif choice == '4':
 else:
   print("Invalid input,please try again.")    
     
+
 
   
